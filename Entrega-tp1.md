@@ -1,2 +1,0 @@
-## Introducción
-El presente informe tiene como objetivo integrar y aplicar los conceptos fundamentales abordados en la cátedra de Análisis de Sistemas de Información mediante un caso práctico que simula un escenario real. A través de este trabajo, se busca consolidar los conocimientos teóricos adquiridos, demostrando su utilidad en la resolución de problemas concretos y en el diseño de soluciones eficaces.
